@@ -9,7 +9,7 @@ I'm exploring the idea of creating a personalized livability web dashboard, one 
 * In 2020 (before the arrival of COVID-19) there were already 7 million people working remotely in the U.S
 * We want information and decision-making support.
 
-he portion of employees able to work remotely is increasing, resulting in decoupling a company’s geographic location from worker’s choice of where to live. This opens up the possibility to choose where to live based on other metrics, such as local air quality, affordability, proximity to family, ‘good’ weather.
+The portion of employees able to work remotely is increasing, resulting in decoupling a company’s geographic location from worker’s choice of where to live. This opens up the possibility to choose where to live based on other metrics, such as local air quality, affordability, proximity to family, ‘good’ weather.
 
 Existing livability indices (e.g., https://en.wikipedia.org/wiki/Global_Liveability_Ranking) are useful, in a generic way, yet they are not customizable. This project will aggregate conventional livability metrics with personal preference inputs, such as weather preference and proximity to other cities (e.g., friends and family) into an online dashboard for anyone to search for their best place to live.
 
